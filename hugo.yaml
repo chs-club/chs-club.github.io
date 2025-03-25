@@ -34,6 +34,9 @@ menu:
     - name: Join
       url: "/join"
       weight: 4
+    - name: Events
+      pageRef: /events
+      weight: 3
     - name: Search
       weight: 5
       params:
