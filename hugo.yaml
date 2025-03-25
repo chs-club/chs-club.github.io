@@ -36,23 +36,23 @@ menu:
       weight: 4
     - name: Events
       pageRef: /events
-      weight: 3
-    - name: Search
       weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 7
       url: "https://github.com/chs-club/"
       params:
         icon: github
     - name: Discord
-      weight: 7
+      weight: 8
       url: "https://discord.gg/uY8yrp65"
       params:
         icon: discord
     - name: Instagram
-      weight: 8
+      weight: 9
       url: "https://www.instagram.com/comphealthsciclub/"
       params:
         icon: instagram
