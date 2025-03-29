@@ -19,7 +19,7 @@ First Place: $100
 
 Second Place: $75
 
-Fourth Place: $50
+Third Place: $50
 
 ## Project Information 
 
