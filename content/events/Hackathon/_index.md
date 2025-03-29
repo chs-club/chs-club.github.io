@@ -108,7 +108,7 @@ There will be undergraduate student helpers acting as mentors to help answer que
 
 ### Rules and Regulations
 - **Team Size:** There may be up to two participants on a single team working together. Collaboration is strongly encouraged, however, solo participation is allowed. 
-- **Generative AI:** Use of generative AI such as ChatGPT, Claude, Gemini, etc., however, it must be cited in the final report. 
+- **Generative AI:** Use of generative AI such as ChatGPT, Claude, Gemini, etc., is allowed, however, it must be cited in the final report. 
 - **Original Work:** All work must be created during the challenge. Pre-existing projects or code are not allowed. 
 <ul style="margin-top:0;">
     <li><strong>Intellectual Property:</strong> Teams retain rights to their work but agree to allow the organization to potentially showcase their project for future promotional purposes.
