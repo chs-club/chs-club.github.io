@@ -3,4 +3,4 @@ title: Club information
 type: docs
 ---
 
-TODO:
+TODO: Not Done
