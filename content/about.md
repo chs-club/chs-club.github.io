@@ -8,11 +8,11 @@ type: about
 <!-- Images should be squares -->
 {{< cards >}}
   {{< card title="Averil Ludwick" subtitle="President" image="/img/people/Averil.jpg" >}}
-  {{< card title="Jay Noh" subtitle="President" image="/img/people/jay-noh.jpg" >}}
-  {{< card title="Akash Patel" subtitle="Vice-President" image="/img/people/akash-patel.jpg" >}}
-  {{< card title="Vincent Chen" subtitle="Opportunities Chair" image="/img/people/vincent-chen.jpg" >}}
-  {{< card title="Jacob Gandionco" subtitle="Business Manager" image="/img/people/jacob-gandionco.jpg" >}}
-  {{< card title="David Fox" subtitle="Education Chair" image="/img/people/david-fox.jpg" >}}
-  {{< card title="Lauren Alia" subtitle="Social Media Manager" image="/img/people/lauren-alia.jpg" >}}
+  {{< card title="Noah Long" subtitle="President" image="/img/people/Noah.jpg" >}}
+  {{< card title="Ambika Rajasekaran" subtitle="Vice-President" image="/img/people/Ambika.jpg" >}}
+  {{< card title="Hitesh Davuluri" subtitle="Opportunities Chair" image="/img/people/Hitesh.jpg" >}}
+  {{< card title="Himanshu Setya" subtitle="Business Manager" image="/img/people/Himanshu.jpg" >}}
+  {{< card title="Vaishnavi Komera" subtitle="Education Chair" image="/img/people/Vaishnavi.jpg" >}}
+  {{< card title="Ashka Shah" subtitle="Social Media Manager" image="/img/people/Ashka.jpg" >}}
   {{< card title="Alex Maldonado, PhD" subtitle="Faculty Advisor" image="/img/people/alex-maldonado.jpg" >}}
 {{< /cards >}}
