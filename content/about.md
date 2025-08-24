@@ -7,7 +7,7 @@ type: about
 
 <!-- Images should be squares -->
 {{< cards >}}
-  {{< card title="Matthew Joyson" subtitle="President" image="/img/people/matthew-joyson.jpg" >}}
+  {{< card title="Averil Ludwick" subtitle="President" image="/img/people/Averil.jpg" >}}
   {{< card title="Jay Noh" subtitle="President" image="/img/people/jay-noh.jpg" >}}
   {{< card title="Akash Patel" subtitle="Vice-President" image="/img/people/akash-patel.jpg" >}}
   {{< card title="Vincent Chen" subtitle="Opportunities Chair" image="/img/people/vincent-chen.jpg" >}}
